@@ -1,0 +1,7 @@
+0 	 0 	 data1.txt     	 1
+0 	 0 	 data2.txt     	 0
+0 	 0 	 data3.txt     	 1
+0 	 0 	 data4.json      0
+0 	 0 	 data5.html      1
+0 	 0 	 data6.docx      1
+0 	 0 	 data8.pdf     	 0
